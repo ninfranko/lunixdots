@@ -1,0 +1,2 @@
+# lunixdots
+my config
